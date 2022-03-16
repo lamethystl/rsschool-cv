@@ -9,7 +9,13 @@
 
 ## About Me
 
-I am a graduate of Mogilev State University of Food Technologies. I worked for 2 years as a laboratory engineer in Belarus. 
+I am a graduate of Mogilev State University of Food Technologies. I worked for 2 years as a laboratory engineer in Belarus.
+I really enjoy creating websites ([example](http://f0613193.xsph.ru/)). My goal is to gain knowledge in the field of front-end development and that's why I'm here.
+#### Strengths:
+  - Self-motivated
+  - Problem solving
+  - Teamwork
+  - Punctuality
 
 ## Skills
 
@@ -17,7 +23,7 @@ I am a graduate of Mogilev State University of Food Technologies. I worked for 2
 - CSS (Bootstrap, SASS/SCSS, BEM)
 - JavaScript (Basic)
 - Git, GitHub (Basic)
-- Figma(for web development)
+- Figma (for web development)
 
 ## Code Example
 
